@@ -1,0 +1,15 @@
+.listclass{
+    width: 30%;
+    margin: auto;
+    background-color: lightblue;
+    padding: 50px;
+    margin-top: 100px;
+    
+    
+}
+.listclass ol li{
+    color: blue;
+    font-size: 30px;
+    padding: 10px;
+    background-color: lightgray;
+}
