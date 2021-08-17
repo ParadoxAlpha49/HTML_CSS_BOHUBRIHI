@@ -13,3 +13,30 @@
     padding: 10px;
     background-color: lightgray;
 }
+.mytable{
+    padding: 200px;
+    background-color: lightgray;
+    margin-top: 20px;
+}
+.tablecontainer{
+    width: 50%;
+    margin: auto;
+    background-color:green;
+    padding: 50px;
+}
+.tablecontainer table{
+    border: 2px solid rgb(54, 6, 6);
+    border-collapse: collapse;
+}
+.tablecontainer table tr th {
+    border: 2px solid rgb(54, 6, 6);
+    padding: 15px;
+    background-color: green;
+    color: white;
+}
+.tablecontainer table tr td {
+    border: 2px solid rgb(54, 6, 6);
+    padding: 15px;
+    background-color: white;
+    color: black;
+}
